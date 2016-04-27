@@ -1,0 +1,11 @@
+0dc161dafe5aef0391a088ae9d09b854 *DESCRIPTION
+b5b2e20c75457107297b566908b8c29d *NAMESPACE
+a74c4553dfe0403c2b4acb602b12558e *R/NAEPprimer-package.R
+8c428cee9491ab2f31d3667db85978e1 *R/data.R
+d3cf4cb7c049e27bbdd20a823e890dc2 *R/zzz.R
+252629d9743a46548a6363e64cb2d7fa *inst/extdata/data/M36NC2PM.dat
+d7dd5233330fbf726bd6b4e819e81f09 *inst/extdata/data/M36NT2PM.dat
+86efeff7c0ad3fb00d84bec060b6ac6c *inst/extdata/select/parms/M36NC2PM.FR2
+30817b59b875de565a5fda5f5cfffd5c *inst/extdata/select/parms/M36NT2PM.fr2
+785cd8324913e7724b08883e8667dc6d *man/M36NT2PM.dat.Rd
+3c36f96c3ae25208c5d5df8133bfdc09 *man/NAEPprimer-package.Rd
