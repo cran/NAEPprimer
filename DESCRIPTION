@@ -1,14 +1,21 @@
 Package: NAEPprimer
-Version: 1.0.1
-Date: 2016-04-04
+Version: 1.0.2
+Date: 2026-05-12
 Title: The NAEP Primer
-Author: NAEP Primer data by Emmanuel Sikali. Creation of R package by Paul Bailey and Michael Lee.
-Maintainer: Emmanuel Sikali <Emmanuel.Sikali@ed.gov>
+Authors@R: c(
+        person("Paul","Bailey",,"pbailey@air.org",role=c("aut"), 
+               comment = c(ORCID = "0000-0003-0989-8729")),
+        person("Michael","Lee",role="aut",
+               comment=c(ORCID="0009-0006-0959-787X")),
+        person("Brian", "Cramer", role=c("cre", "pdr"), email = "Brian.Cramer@ed.gov")
+        )
 Description: Contains a sample of the 2005 Grade 8 Mathematics data from the National Assessment of Educational Progress (NAEP). This data set is called the NAEP Primer.
 License: GPL-2
-LazyData: true
-RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-04-07 18:10:13 UTC; mlee
+Packaged: 2026-05-13 18:08:16 UTC; pbailey
+Author: Paul Bailey [aut] (ORCID: <https://orcid.org/0000-0003-0989-8729>),
+  Michael Lee [aut] (ORCID: <https://orcid.org/0009-0006-0959-787X>),
+  Brian Cramer [cre, pdr]
+Maintainer: Brian Cramer <Brian.Cramer@ed.gov>
 Repository: CRAN
-Date/Publication: 2016-04-27 19:51:52
+Date/Publication: 2026-05-14 15:00:16 UTC

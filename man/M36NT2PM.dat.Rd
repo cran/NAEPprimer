@@ -33,7 +33,7 @@ M36NT2PM.dat contains 300 variables and 17606 rows, and has the majority of stud
 M36NC2PM.dat contains 2 variables and 4092 rows (one per school), and has two school variables. 
 The two school variables on M36NC2PM are:
 
-\itemize{
+\describe{
  \item{"SSCRPSU"}{Scrambled PSU and school code (used for linking)}
  \item{"C052601"}{Percent enrolled in math for remediation}
 }
